@@ -1,0 +1,6 @@
+Diagnostics:
+  MissingIncludes: Loose
+  UnusedIncludes: None
+
+CompileFlags:
+    Add: [-std=c17]
